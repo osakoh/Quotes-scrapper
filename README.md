@@ -1,4 +1,4 @@
-### This exciting project extracts quotes(content, author, & tags) from quotes.toscrape.com/.
+### This exciting project successfully extracts quotes(content, author, & tags) from quotes.toscrape.com/.
 
 #### To use this app, run the [runner](runner.py) file.
 
